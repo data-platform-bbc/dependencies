@@ -1,0 +1,2 @@
+facebook-python-ads-sdk
+googleads
