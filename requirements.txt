@@ -1,2 +1,2 @@
 facebook-python-ads-sdk
-googleads
+googleads-python-lib
